@@ -1,4 +1,4 @@
-# Data for Manuscript - Pores & OFGs
+# Data - Pores & OFGs
 
 There are input files (.dat) and output files (.std) resulting from Geometry Optimization in OpenMX as follows:
 
